@@ -1,4 +1,4 @@
-## Create small model of a physical money wallet using Laravel Framework
+## Create small model of a physical money wallet using Laravel Framework [not yet completed]
 
 * User should register and login to the system: you need to implement user registration and login flow.
 
@@ -19,6 +19,21 @@
 * Reporting section.
 
 * Write appropriate unit tests
+
+
+### How to install
+
+`clone https://github.com/dhirajpatra/wallet_by_laravel`
+
+`composer install`
+
+
+### how to run
+
+first need to run your mysql server
+
+`php artisan serve`
+
 
 ### REST API
 http://localhost:8000/api/v1/user [get]
